@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETS_winForm", "ETS_winForm\ETS_winForm.csproj", "{B54C7356-2F66-4D6B-A8C2-61541A6C4273}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B54C7356-2F66-4D6B-A8C2-61541A6C4273}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B54C7356-2F66-4D6B-A8C2-61541A6C4273}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B54C7356-2F66-4D6B-A8C2-61541A6C4273}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B54C7356-2F66-4D6B-A8C2-61541A6C4273}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84D1291E-45A8-424D-B2E2-68D76764D771}
+	EndGlobalSection
+EndGlobal

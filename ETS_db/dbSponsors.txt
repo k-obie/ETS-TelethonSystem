@@ -1,0 +1,4 @@
+Max,Smith,1000,0
+Sara,Brown,1001,0
+Micheal,Smith,1234,0
+Richard,Russell,2345,0

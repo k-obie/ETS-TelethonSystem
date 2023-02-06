@@ -1,0 +1,17 @@
+C:\Users\mrgri\source\repos\ETS_winForm\ETS_winForm\bin\Debug\ETS_winForm.exe.config
+C:\Users\mrgri\source\repos\ETS_winForm\ETS_winForm\bin\Debug\ETS_winForm.exe
+C:\Users\mrgri\source\repos\ETS_winForm\ETS_winForm\bin\Debug\ETS_winForm.pdb
+C:\Users\mrgri\source\repos\ETS_winForm\ETS_winForm\obj\Debug\ETS_winForm.csproj.AssemblyReference.cache
+C:\Users\mrgri\source\repos\ETS_winForm\ETS_winForm\obj\Debug\ETS_winForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\mrgri\source\repos\ETS_winForm\ETS_winForm\obj\Debug\ETS_winForm.mainForm.resources
+C:\Users\mrgri\source\repos\ETS_winForm\ETS_winForm\obj\Debug\ETS_winForm.Properties.Resources.resources
+C:\Users\mrgri\source\repos\ETS_winForm\ETS_winForm\obj\Debug\ETS_winForm.csproj.GenerateResource.cache
+C:\Users\mrgri\source\repos\ETS_winForm\ETS_winForm\obj\Debug\ETS_winForm.csproj.CoreCompileInputs.cache
+C:\Users\mrgri\source\repos\ETS_winForm\ETS_winForm\obj\Debug\ETS_winForm.exe
+C:\Users\mrgri\source\repos\ETS_winForm\ETS_winForm\obj\Debug\ETS_winForm.pdb
+C:\Users\mrgri\source\repos\ETS_winForm\ETS_winForm\obj\Debug\ETS_winForm.login.resources
+C:\Users\mrgri\source\repos\ETS_winForm\ETS_winForm\bin\Debug\ETS_lib.dll
+C:\Users\mrgri\source\repos\ETS_winForm\ETS_winForm\bin\Debug\ETS_lib.pdb
+C:\Users\mrgri\source\repos\ETS_winForm\ETS_winForm\obj\Debug\ETS_winForm.csproj.CopyComplete
+C:\Users\mrgri\source\repos\ETS_winForm\ETS_winForm\obj\Debug\ETS_winForm.searchDonorIDForm.resources
+C:\Users\mrgri\source\repos\ETS_winForm\ETS_winForm\obj\Debug\ETS_winForm.serachSponsorIDForm.resources

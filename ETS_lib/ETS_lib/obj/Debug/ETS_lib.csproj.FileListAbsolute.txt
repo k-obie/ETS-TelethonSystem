@@ -1,0 +1,6 @@
+C:\Users\mrgri\source\repos\ETS_lib\ETS_lib\bin\Debug\ETS_lib.dll
+C:\Users\mrgri\source\repos\ETS_lib\ETS_lib\bin\Debug\ETS_lib.pdb
+C:\Users\mrgri\source\repos\ETS_lib\ETS_lib\obj\Debug\ETS_lib.csproj.AssemblyReference.cache
+C:\Users\mrgri\source\repos\ETS_lib\ETS_lib\obj\Debug\ETS_lib.csproj.CoreCompileInputs.cache
+C:\Users\mrgri\source\repos\ETS_lib\ETS_lib\obj\Debug\ETS_lib.dll
+C:\Users\mrgri\source\repos\ETS_lib\ETS_lib\obj\Debug\ETS_lib.pdb
